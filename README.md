@@ -3,3 +3,5 @@
 
 2.一个Job里执行多个task,如PushPriceJob包含获取配置 获取hotelList任务 ，生成event任务 push events任务等
 
+3.目前demo的功能可以实现动态生成job 删除job 修改job配置 ，但集群方面还需要考虑
+
